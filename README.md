@@ -2,9 +2,11 @@
 
 <img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="385px" align="center">
 </br>
-__This was a project from the Hatchdev Full-stack development 12months internship training__
+_This was a project from the Hatchdev Full-stack development 12months internship training_
 
-![Hatchdev Website](https://nithub.unilag.edu.ng/hatchdev/)
+![Hatchdev Logo](https://nithub.unilag.edu.ng/wp-content/uploads/2022/10/Frame-6-1024x1024.png)
+</br>
+[Hatchdev Website](https://nithub.unilag.edu.ng/hatchdev/)
 </br>
 __The Hatchdev program is afilated with the Nithub Unilg Tech workspace and that is where all our classes are held and seminal training__
 **Stacks**
