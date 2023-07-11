@@ -380,7 +380,7 @@ p{
             }
             #main strong{
                 
-                font-size: 35px;
+                font-size: 40px;
                 color:rgb(51, 52, 53);
                 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
                 font-weight: 400;
@@ -390,7 +390,7 @@ p{
                 gap: 1em 0;
                 justify-content: center;
                 padding:1em 0;
-                font-size: 13px;
+                font-size: 17px;
                 line-height: 25px;
                 font-weight: 300;
                 color: rgb(110, 108, 108);
@@ -409,7 +409,7 @@ p{
                 flex-wrap: wrap;
             }
             #main-2 strong{
-                font-size: 27px;
+                font-size: 33px;
             }
             
             .body-2{
@@ -423,12 +423,12 @@ p{
             }
             #button2{
                 background-color: #f25f3a;
-                width:100px;
-                height: 30px;
+                width:130px;
+                height: 40px;
                 border-radius: 20px;
                 border: 2px #f25f3a;
                 color: azure;
-                font-size: 15px;
+                font-size: 19px;
                 font-weight: 200;
             }
             #img-sec{
@@ -437,7 +437,7 @@ p{
                margin-left: 2.5em;
             }
             #img-sec img{
-                width: 290px;
+                width: 350px;
                 height: auto;
             }
             .each{
@@ -448,7 +448,7 @@ p{
             
             }
             #this{
-             font-size: 16px; 
+             font-size: 21px; 
              background-color:rgb(241, 213, 213);
             
              border: 2px rgb(241, 213, 213);
@@ -457,8 +457,8 @@ p{
             }
             #btn{
                 background-color:#f25f3a;
-                width:35px;
-                height: 20px;
+                width:45px;
+                height: 30px;
                 border-radius: 25px;
                 border: 2px #f25f3a;
                 color: azure;
@@ -466,8 +466,9 @@ p{
                 font-weight: 100; 
               
             }
+           
             #starter{
-                font-size: 26px;
+                font-size: 30px;
             }
             .slider{
                 padding-top: 2em;
